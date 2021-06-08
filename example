@@ -2,7 +2,6 @@ class Sample{
 
 public static void main(){
 System.out.println("Hy");
-System.out.println("Hy again");
 }
 
 
